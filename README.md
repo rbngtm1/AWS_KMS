@@ -12,4 +12,7 @@
   * Different keys are used to Encrypt and Decrypt
 #### CipherText 
   * In cryptography, ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher.
-  
+#### HSM (Hardware Security Module)
+  * A hardware security module(HSM) is a physical computing device that safeguards and manages digital keys for strong authentication and provides cypto-processing.
+#### Customer Managed Key
+  * The primary resources in AWS KMS are customer master key (CMKs). You can use CMK to encrypt and 
