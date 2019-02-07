@@ -15,4 +15,6 @@
 #### HSM (Hardware Security Module)
   * A hardware security module(HSM) is a physical computing device that safeguards and manages digital keys for strong authentication and provides cypto-processing.
 #### Customer Managed Key
-  * The primary resources in AWS KMS are customer master key (CMKs). You can use CMK to encrypt and 
+  * The primary resources in AWS KMS are customer master key (CMKs). You can use CMK to encrypt and decrypt up to 4 KB of data. 
+#### Data Keys
+  * 
