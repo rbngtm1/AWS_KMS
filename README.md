@@ -6,6 +6,10 @@
 #### Encryption 
   * The process of converting ordinary information (called plaintext) into unintelligible text (ciphertext).
   * Decryption -> reverse of encryption 
+#### Symmetric Encryption
+  * Same key is used to encrypt and decrypt
+#### Asymmetric Encrytion
+  * Different keys are used to Encrypt and Decrypt
 #### CipherText 
   * In cryptography, ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher.
   
